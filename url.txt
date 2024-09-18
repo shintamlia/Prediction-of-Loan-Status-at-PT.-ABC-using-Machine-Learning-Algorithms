@@ -1,0 +1,2 @@
+Kaggle = https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction 
+Hugging Face = https://huggingface.co/spaces/shintamlia/Loan_Status_Prediction
